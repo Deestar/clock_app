@@ -42,7 +42,7 @@ h1 {
 .clock {
   width: 400px;
   height: 400px;
-  background-image: url(/clock6.jpg);
+  background-image: url(./clock6.jpg);
   background-size: cover;
   border-radius: 50%;
   background-position: center;
